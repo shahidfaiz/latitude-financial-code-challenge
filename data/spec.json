@@ -1,0 +1,7 @@
+{
+  "ColumnNames":"f1, f2, f3, f4, f5, f6, f7, f8, f9, f10",
+  "Offsets":"3,12,3,2,13,1,10,13,3,13",
+  "InputEncoding":"windows-1252",
+  "IncludeHeader":true,
+  "OutputEncoding":"utf-8"
+}

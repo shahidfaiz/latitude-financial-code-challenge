@@ -1,0 +1,7 @@
+{
+  "ColumnNames":"a, b",
+  "Offsets":"3,4",
+  "InputEncoding":"foo",
+  "IncludeHeader":true,
+  "OutputEncoding":"utf-8"
+}
